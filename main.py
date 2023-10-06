@@ -48,8 +48,8 @@ for word in tokens:
     ipa_pronunciation = pronouncing.phones_for_word(word)
     
     if ipa_pronunciation:
-        # Add a hyphen between IPA syllables
-        ipa_word = "-".join(ipa_pronunciation[0].split())
+        # Concatenate IPA syllables without spaces
+        ipa_word = "".join(ipa_pronunciation[0].split())
         ipa_lyrics.append(ipa_word)
     else:
         ipa_lyrics.append(word)  # Use the original word if IPA not found
@@ -62,7 +62,7 @@ for word, color_code in color_coded_lyrics:
 
 print("\n")
 
-# Combine and print the IPA version of the lyrics with hyphens
+# Combine and print the IPA version of the lyrics
 combined_ipa_lyrics = " ".join(ipa_lyrics)
 print("IPA Version of Lyrics:")
 print(combined_ipa_lyrics)
