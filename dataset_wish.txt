@@ -1,0 +1,23 @@
+Dataset:
+Bar number | Word | Phonetic | Rhyme group
+1 | If | ɪf | 0
+1 | you | ju | 0
+1 | never |ˈnɛv | 0
+1 | never | ər | 0
+1 | gave | ɡeɪv | 1
+1 | a | ə | 2
+1 | damn |  dæm | 3
+1 | raise | reɪz | 1
+1 | your |  jʊər | 2
+1 | hand |  hænd | 3
+2 | 'Cause | kəz | 0
+2 |  I'm |  aɪm | 0
+2 | about | ə | 0
+2 | about |  ˈbaʊt | 0
+2 | to | tu | 0
+2 |  set |  sɛt | 4
+2 | trip | trɪp  | 5
+2 | vacation | veɪ | 1
+2 | vacation | ˈkeɪ | 1
+2 | vacation | ʃən | 2
+2 | plans | plænz | 3
