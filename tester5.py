@@ -2,6 +2,8 @@ import nltk
 from nltk import word_tokenize
 from nltk.corpus import cmudict
 import pyphen
+import csv
+import os
 
 # Download the CMU Pronouncing Dictionary data
 nltk.download('cmudict')
@@ -82,7 +84,28 @@ def group_syllables(dataset):
 
     return new_dataset
 
+
 # Print the dataset
 new_dataset = group_syllables(dataset)
+
+def save_to_csv(dataset, output_file):
+    output_folder = 'datasets'
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    output_path = os.path.join(output_folder, output_file)
+
+    with open(output_path, 'w', newline='') as csv_file:
+        csv_writer = csv.writer(csv_file)
+        # Write a header row if needed
+        csv_writer.writerow(['Line Number', 'Word', 'Phonetic', 'Rhyme Group'])
+        # Write the data
+        for entry in dataset:
+            csv_writer.writerow(entry)
+
+# Call the save_to_csv function to save the grouped dataset
+output_file = "test.csv"
+save_to_csv(new_dataset, output_file)
+
 for entry in new_dataset:
     print(entry)
