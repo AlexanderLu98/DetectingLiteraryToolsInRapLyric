@@ -36,9 +36,9 @@ for i, line in enumerate(lyrics):
         syllables = dic.inserted(word).split("-")
         for k, syllable in enumerate(syllables):
             # Add the data to the list
-            data.append((i+1, j+1, k+1, syllable, phonetic, None, None, found_in_cmu))
+            data.append((i+1, j+1, k+1, syllable, phonetic, None, False, None, False, found_in_cmu))
 
 # Convert the list to a DataFrame
-df = pd.DataFrame(data, columns=["LineID", "WordID", "SyllableID", "Syllable", "Phonetic", "RhymeGroup", "IsRhyme", "FoundInCMU"])
+df = pd.DataFrame(data, columns=["LineID", "WordID", "SyllableID", "Syllable", "Phonetic", "RhymeGroup", "IsRhyme", "AlliterationSound", "IsAlliteration", "FoundInCMU"])
 
 print(df)
