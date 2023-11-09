@@ -1,0 +1,238 @@
+LineID,WordID,SyllableID,Syllable,Phonetic,RhymeGroup,IsRhyme,AlliterationSound,IsAlliteration,FoundInCMU,ArtistName,SongName
+1,1,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+1,2,1,drive,"['D', 'R', 'AY1', 'V']",1,True,0,False,True,Big L,The Enemy
+1,3,1,up,"['AH1', 'P']",2,True,0,False,True,Big L,The Enemy
+1,4,1,and,"['AH0', 'N', 'D']",0,False,0,False,True,Big L,The Enemy
+1,5,1,down,"['D', 'AW1', 'N']",3,True,0,False,True,Big L,The Enemy
+1,6,1,Har,"['HH', 'AA1', 'R', 'L', 'AH0', 'M']",3,True,0,False,True,Big L,The Enemy
+1,6,2,lem,"['HH', 'AA1', 'R', 'L', 'AH0', 'M']",0,False,0,False,True,Big L,The Enemy
+1,7,1,blocks,"['B', 'L', 'AA1', 'K', 'S']",2,True,0,False,True,Big L,The Enemy
+1,8,1,iced,iced-out,1,True,0,False,False,Big L,The Enemy
+1,8,2,out,iced-out,3,True,0,False,False,Big L,The Enemy
+1,9,1,watch,"['W', 'AA1', 'CH']",2,True,0,False,True,Big L,The Enemy
+2,1,1,Knots,"['N', 'AA1', 'T', 'S']",2,True,0,False,True,Big L,The Enemy
+2,2,1,in,"['IH0', 'N']",4,True,0,False,True,Big L,The Enemy
+2,3,1,my,"['M', 'AY1']",3,True,0,False,True,Big L,The Enemy
+2,4,1,socks,"['S', 'AA1', 'K', 'S']",2,True,0,False,True,Big L,The Enemy
+2,5,1,cops,"['K', 'AA1', 'P', 'S']",2,True,0,False,True,Big L,The Enemy
+2,6,1,think,"['TH', 'IH1', 'NG', 'K']",4,True,0,False,True,Big L,The Enemy
+2,7,1,I'm,['AY1'],3,True,0,False,True,Big L,The Enemy
+2,8,1,'m,"['AH0', 'M']",0,False,0,False,True,Big L,The Enemy
+2,9,1,selling,"['S', 'EH1', 'L', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+2,10,1,rocks,"['R', 'AA1', 'K', 'S']",2,True,0,False,True,Big L,The Enemy
+3,1,1,Pulling,"['P', 'UH1', 'L', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+3,2,1,me,"['M', 'IY1']",0,False,0,False,True,Big L,The Enemy
+3,3,1,over,"['OW1', 'V', 'ER0']",56,True,0,False,True,Big L,The Enemy
+3,4,1,to,"['T', 'UW1']",0,False,0,False,True,Big L,The Enemy
+3,5,1,see,"['S', 'IY1']",0,False,0,False,True,Big L,The Enemy
+3,6,1,if,"['IH1', 'F']",0,False,0,False,True,Big L,The Enemy
+3,7,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+3,8,1,'m,"['AH0', 'M']",0,False,0,False,True,Big L,The Enemy
+3,9,1,drunk,"['D', 'R', 'AH1', 'NG', 'K']",0,False,0,False,True,Big L,The Enemy
+3,10,1,but,"['B', 'AH1', 'T']",0,False,0,False,True,Big L,The Enemy
+3,11,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+3,12,1,'m,"['AH0', 'M']",0,False,0,False,True,Big L,The Enemy
+3,13,1,sober,"['S', 'OW1', 'B', 'ER0']",0,False,0,False,True,Big L,The Enemy
+4,1,1,They,"['DH', 'EY1']",0,False,0,False,True,Big L,The Enemy
+4,2,1,would,"['W', 'UH1', 'D']",0,False,0,False,True,Big L,The Enemy
+4,3,1,n't,n't,0,False,0,False,False,Big L,The Enemy
+4,4,1,fuck,"['F', 'AH1', 'K']",0,False,0,False,True,Big L,The Enemy
+4,5,1,with,"['W', 'IH1', 'DH']",0,False,0,False,True,Big L,The Enemy
+4,6,1,me,"['M', 'IY1']",0,False,0,False,True,Big L,The Enemy
+4,7,1,if,"['IH1', 'F']",0,False,0,False,True,Big L,The Enemy
+4,8,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+4,9,1,drove,"['D', 'R', 'OW1', 'V']",0,False,0,False,True,Big L,The Enemy
+4,10,1,a,['AH0'],0,False,0,False,True,Big L,The Enemy
+4,11,1,Nova,"['N', 'OW1', 'V', 'AH0']",0,False,0,False,True,Big L,The Enemy
+5,1,1,Listen,"['L', 'IH1', 'S', 'AH0', 'N']",0,False,0,False,True,Big L,The Enemy
+5,2,1,Columbo,"['K', 'OW2', 'L', 'AH1', 'M', 'B', 'OW0']",0,False,0,False,True,Big L,The Enemy
+5,3,1,you,"['Y', 'UW1']",0,False,0,False,True,Big L,The Enemy
+5,4,1,'re,'re,0,False,0,False,False,Big L,The Enemy
+5,5,1,mad,"['M', 'AE1', 'D']",0,False,0,False,True,Big L,The Enemy
+5,6,1,be,"['B', 'IH0', 'K', 'AO1', 'Z']",0,False,0,False,True,Big L,The Enemy
+5,6,2,cause,"['B', 'IH0', 'K', 'AO1', 'Z']",0,False,0,False,True,Big L,The Enemy
+5,7,1,your,"['Y', 'AO1', 'R']",0,False,0,False,True,Big L,The Enemy
+5,8,1,money,"['M', 'AH1', 'N', 'IY0']",0,False,0,False,True,Big L,The Enemy
+5,9,1,come,"['K', 'AH1', 'M']",0,False,0,False,True,Big L,The Enemy
+5,10,1,slow,"['S', 'L', 'OW1']",0,False,0,False,True,Big L,The Enemy
+6,1,1,And,"['AH0', 'N', 'D']",0,False,0,False,True,Big L,The Enemy
+6,2,1,what,"['W', 'AH1', 'T']",0,False,0,False,True,Big L,The Enemy
+6,3,1,you,"['Y', 'UW1']",0,False,0,False,True,Big L,The Enemy
+6,4,1,make,"['M', 'EY1', 'K']",0,False,0,False,True,Big L,The Enemy
+6,5,1,in,"['IH0', 'N']",0,False,0,False,True,Big L,The Enemy
+6,6,1,a,['AH0'],0,False,0,False,True,Big L,The Enemy
+6,7,1,year,"['Y', 'IH1', 'R']",0,False,0,False,True,Big L,The Enemy
+6,8,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+6,9,1,make,"['M', 'EY1', 'K']",0,False,0,False,True,Big L,The Enemy
+6,10,1,in,"['IH0', 'N']",0,False,0,False,True,Big L,The Enemy
+6,11,1,one,"['W', 'AH1', 'N']",0,False,0,False,True,Big L,The Enemy
+6,12,1,show,"['SH', 'OW1']",0,False,0,False,True,Big L,The Enemy
+7,1,1,Now,"['N', 'AW1']",0,False,0,False,True,Big L,The Enemy
+7,2,1,you,"['Y', 'UW1']",0,False,0,False,True,Big L,The Enemy
+7,3,1,wan,"['W', 'AA1', 'N']",0,False,0,False,True,Big L,The Enemy
+7,4,1,na,"['N', 'AA1']",0,False,0,False,True,Big L,The Enemy
+7,5,1,frisk,"['F', 'R', 'IH1', 'S', 'K']",0,False,0,False,True,Big L,The Enemy
+7,6,1,me,"['M', 'IY1']",0,False,0,False,True,Big L,The Enemy
+7,7,1,and,"['AH0', 'N', 'D']",0,False,0,False,True,Big L,The Enemy
+7,8,1,search,"['S', 'ER1', 'CH']",0,False,0,False,True,Big L,The Enemy
+7,9,1,my,"['M', 'AY1']",0,False,0,False,True,Big L,The Enemy
+7,10,1,ride,"['R', 'AY1', 'D']",0,False,0,False,True,Big L,The Enemy
+8,1,1,Call,"['K', 'AO1', 'L']",0,False,0,False,True,Big L,The Enemy
+8,2,1,me,"['M', 'IY1']",0,False,0,False,True,Big L,The Enemy
+8,3,1,all,"['AO1', 'L']",0,False,0,False,True,Big L,The Enemy
+8,4,1,kind,"['K', 'AY1', 'N', 'D']",0,False,0,False,True,Big L,The Enemy
+8,5,1,of,"['AH1', 'V']",0,False,0,False,True,Big L,The Enemy
+8,6,1,names,"['N', 'EY1', 'M', 'Z']",0,False,0,False,True,Big L,The Enemy
+8,7,1,try,"['T', 'R', 'AY1']",0,False,0,False,True,Big L,The Enemy
+8,8,1,to,"['T', 'UW1']",0,False,0,False,True,Big L,The Enemy
+8,9,1,hurt,"['HH', 'ER1', 'T']",0,False,0,False,True,Big L,The Enemy
+8,10,1,my,"['M', 'AY1']",0,False,0,False,True,Big L,The Enemy
+8,11,1,pride,"['P', 'R', 'AY1', 'D']",0,False,0,False,True,Big L,The Enemy
+9,1,1,You,"['Y', 'UW1']",0,False,0,False,True,Big L,The Enemy
+9,2,1,'re,'re,0,False,0,False,False,Big L,The Enemy
+9,3,1,just,"['JH', 'AH1', 'S', 'T']",0,False,0,False,True,Big L,The Enemy
+9,4,1,mad,"['M', 'AE1', 'D']",0,False,0,False,True,Big L,The Enemy
+9,5,1,'cause,"['K', 'AH0', 'Z']",0,False,0,False,True,Big L,The Enemy
+9,6,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+9,7,1,'m,"['AH0', 'M']",0,False,0,False,True,Big L,The Enemy
+9,8,1,a,['AH0'],0,False,0,False,True,Big L,The Enemy
+9,9,1,young,"['Y', 'AH1', 'NG']",0,False,0,False,True,Big L,The Enemy
+9,10,1,cat,"['K', 'AE1', 'T']",0,False,0,False,True,Big L,The Enemy
+9,11,1,pock,"['P', 'AA1', 'K', 'AH0', 'T', 'S']",0,False,0,False,True,Big L,The Enemy
+9,11,2,ets,"['P', 'AA1', 'K', 'AH0', 'T', 'S']",0,False,0,False,True,Big L,The Enemy
+9,12,1,dumb,"['D', 'AH1', 'M']",0,False,0,False,True,Big L,The Enemy
+9,13,1,fat,"['F', 'AE1', 'T']",0,False,0,False,True,Big L,The Enemy
+10,1,1,Talk,"['T', 'AO1', 'K', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+10,1,2,ing,"['T', 'AO1', 'K', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+10,2,1,'bout,"['B', 'AW1', 'T']",0,False,0,False,True,Big L,The Enemy
+10,3,1,Where,"['W', 'EH1', 'R']",0,False,0,False,True,Big L,The Enemy
+10,4,1,the,"['DH', 'AH0']",0,False,0,False,True,Big L,The Enemy
+10,5,1,gun,"['G', 'AH1', 'N']",0,False,0,False,True,Big L,The Enemy
+10,6,1,at,"['AE1', 'T']",0,False,0,False,True,Big L,The Enemy
+10,7,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+10,8,1,been,"['B', 'IH1', 'N']",0,False,0,False,True,Big L,The Enemy
+10,9,1,there,"['DH', 'EH1', 'R']",0,False,0,False,True,Big L,The Enemy
+10,10,1,and,"['AH0', 'N', 'D']",0,False,0,False,True,Big L,The Enemy
+10,11,1,done,"['D', 'AH1', 'N']",0,False,0,False,True,Big L,The Enemy
+10,12,1,that,"['DH', 'AE1', 'T']",0,False,0,False,True,Big L,The Enemy
+11,1,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+11,2,1,'m,"['AH0', 'M']",0,False,0,False,True,Big L,The Enemy
+11,3,1,through,"['TH', 'R', 'UW1']",0,False,0,False,True,Big L,The Enemy
+11,4,1,with,"['W', 'IH1', 'DH']",0,False,0,False,True,Big L,The Enemy
+11,5,1,that,"['DH', 'AE1', 'T']",0,False,0,False,True,Big L,The Enemy
+11,6,1,il,"['IH0', 'L', 'IY1', 'G', 'AH0', 'L']",0,False,0,False,True,Big L,The Enemy
+11,6,2,leg,"['IH0', 'L', 'IY1', 'G', 'AH0', 'L']",0,False,0,False,True,Big L,The Enemy
+11,6,3,al,"['IH0', 'L', 'IY1', 'G', 'AH0', 'L']",0,False,0,False,True,Big L,The Enemy
+11,7,1,life,"['L', 'AY1', 'F']",0,False,0,False,True,Big L,The Enemy
+11,8,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+11,9,1,'m,"['AH0', 'M']",0,False,0,False,True,Big L,The Enemy
+11,10,1,stay,"['S', 'T', 'EY1', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+11,10,2,ing,"['S', 'T', 'EY1', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+11,11,1,le,"['L', 'EH1', 'JH', 'IH0', 'T']",0,False,0,False,True,Big L,The Enemy
+11,11,2,git,"['L', 'EH1', 'JH', 'IH0', 'T']",0,False,0,False,True,Big L,The Enemy
+12,1,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+12,2,1,love,"['L', 'AH1', 'V']",0,False,0,False,True,Big L,The Enemy
+12,3,1,to,"['T', 'UW1']",0,False,0,False,True,Big L,The Enemy
+12,4,1,see,"['S', 'IY1']",0,False,0,False,True,Big L,The Enemy
+12,5,1,cars,"['K', 'AA1', 'R', 'Z']",0,False,0,False,True,Big L,The Enemy
+12,6,1,come,"['K', 'AH1', 'M']",0,False,0,False,True,Big L,The Enemy
+12,7,1,cruis,"['K', 'R', 'UW1', 'Z', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+12,7,2,ing,"['K', 'R', 'UW1', 'Z', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+12,8,1,by,"['B', 'AY1']",0,False,0,False,True,Big L,The Enemy
+12,9,1,and,"['AH0', 'N', 'D']",0,False,0,False,True,Big L,The Enemy
+12,10,1,play,"['P', 'L', 'EY1', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+12,10,2,ing,"['P', 'L', 'EY1', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+12,11,1,my,"['M', 'AY1']",0,False,0,False,True,Big L,The Enemy
+12,12,1,shit,"['SH', 'IH1', 'T']",0,False,0,False,True,Big L,The Enemy
+13,1,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+13,2,1,walk,"['W', 'AO1', 'K']",0,False,0,False,True,Big L,The Enemy
+13,3,1,around,"['ER0', 'AW1', 'N', 'D']",0,False,0,False,True,Big L,The Enemy
+13,4,1,with,"['W', 'IH1', 'DH']",0,False,0,False,True,Big L,The Enemy
+13,5,1,six,"['S', 'IH1', 'K', 'S']",0,False,0,False,True,Big L,The Enemy
+13,6,1,thou,"['DH', 'AW1']",0,False,0,False,True,Big L,The Enemy
+13,7,1,',',0,False,0,False,False,Big L,The Enemy
+13,8,1,without,"['W', 'IH0', 'TH', 'AW1', 'T']",0,False,0,False,True,Big L,The Enemy
+13,9,1,a,['AH0'],0,False,0,False,True,Big L,The Enemy
+13,10,1,pis,"['P', 'IH1', 'S', 'T', 'AH0', 'L']",0,False,0,False,True,Big L,The Enemy
+13,10,2,tol,"['P', 'IH1', 'S', 'T', 'AH0', 'L']",0,False,0,False,True,Big L,The Enemy
+13,11,1,my,"['M', 'AY1']",0,False,0,False,True,Big L,The Enemy
+13,12,1,whole,"['HH', 'OW1', 'L']",0,False,0,False,True,Big L,The Enemy
+13,13,1,clique,"['K', 'L', 'IY1', 'K']",0,False,0,False,True,Big L,The Enemy
+13,14,1,'s,"['EH1', 'S']",0,False,0,False,True,Big L,The Enemy
+13,15,1,wild,"['W', 'AY1', 'L', 'D']",0,False,0,False,True,Big L,The Enemy
+14,1,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+14,2,1,'m,"['AH0', 'M']",0,False,0,False,True,Big L,The Enemy
+14,3,1,rich,"['R', 'IH1', 'CH']",0,False,0,False,True,Big L,The Enemy
+14,4,1,pal,"['P', 'AE1', 'L']",0,False,0,False,True,Big L,The Enemy
+14,5,1,no,"['N', 'OW1']",0,False,0,False,True,Big L,The Enemy
+14,6,1,more,"['M', 'AO1', 'R']",0,False,0,False,True,Big L,The Enemy
+14,7,1,sticks,"['S', 'T', 'IH1', 'K', 'S']",0,False,0,False,True,Big L,The Enemy
+14,8,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+14,9,1,'m,"['AH0', 'M']",0,False,0,False,True,Big L,The Enemy
+14,10,1,mak,"['M', 'EY1', 'K', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+14,10,2,ing,"['M', 'EY1', 'K', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+14,11,1,hits,"['HH', 'IH1', 'T', 'S']",0,False,0,False,True,Big L,The Enemy
+14,12,1,now,"['N', 'AW1']",0,False,0,False,True,Big L,The Enemy
+15,1,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+15,2,1,drink,"['D', 'R', 'IH1', 'NG', 'K']",0,False,0,False,True,Big L,The Enemy
+15,3,1,Cristal,"['K', 'R', 'IH1', 'S', 'T', 'AH0', 'L']",0,False,0,False,True,Big L,The Enemy
+15,4,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+15,5,1,'m,"['AH0', 'M']",0,False,0,False,True,Big L,The Enemy
+15,6,1,through,"['TH', 'R', 'UW1']",0,False,0,False,True,Big L,The Enemy
+15,7,1,break,"['B', 'R', 'EY1', 'K', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+15,7,2,ing,"['B', 'R', 'EY1', 'K', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+15,8,1,laws,"['L', 'AO1', 'Z']",0,False,0,False,True,Big L,The Enemy
+16,1,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+16,2,1,do,"['D', 'UW1']",0,False,0,False,True,Big L,The Enemy
+16,3,1,n't,n't,0,False,0,False,False,Big L,The Enemy
+16,4,1,sell,"['S', 'EH1', 'L']",0,False,0,False,True,Big L,The Enemy
+16,5,1,coke,"['K', 'OW1', 'K']",0,False,0,False,True,Big L,The Enemy
+16,6,1,any,"['EH2', 'N', 'IY0', 'M', 'AO1', 'R']",0,False,0,False,True,Big L,The Enemy
+16,6,2,more,"['EH2', 'N', 'IY0', 'M', 'AO1', 'R']",0,False,0,False,True,Big L,The Enemy
+16,7,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+16,8,1,do,"['D', 'UW1']",0,False,0,False,True,Big L,The Enemy
+16,9,1,tours,"['T', 'UH1', 'R', 'Z']",0,False,0,False,True,Big L,The Enemy
+17,1,1,So,"['S', 'OW1']",0,False,0,False,True,Big L,The Enemy
+17,2,1,get,"['G', 'EH1', 'T']",0,False,0,False,True,Big L,The Enemy
+17,3,1,that,"['DH', 'AE1', 'T']",0,False,0,False,True,Big L,The Enemy
+17,4,1,flash,"['F', 'L', 'AE1', 'SH', 'L', 'AY2', 'T']",0,False,0,False,True,Big L,The Enemy
+17,4,2,light,"['F', 'L', 'AE1', 'SH', 'L', 'AY2', 'T']",0,False,0,False,True,Big L,The Enemy
+17,5,1,out,"['AW1', 'T']",0,False,0,False,True,Big L,The Enemy
+17,6,1,of,"['AH1', 'V']",0,False,0,False,True,Big L,The Enemy
+17,7,1,my,"['M', 'AY1']",0,False,0,False,True,Big L,The Enemy
+17,8,1,face,"['F', 'EY1', 'S']",0,False,0,False,True,Big L,The Enemy
+18,1,1,To,"['T', 'UW1']",0,False,0,False,True,Big L,The Enemy
+18,2,1,bring,"['B', 'R', 'IH1', 'NG']",0,False,0,False,True,Big L,The Enemy
+18,3,1,me,"['M', 'IY1']",0,False,0,False,True,Big L,The Enemy
+18,4,1,down,"['D', 'AW1', 'N']",0,False,0,False,True,Big L,The Enemy
+18,5,1,them,"['DH', 'EH1', 'M']",0,False,0,False,True,Big L,The Enemy
+18,6,1,Jakes,"['JH', 'EY1', 'K', 'S']",0,False,0,False,True,Big L,The Enemy
+18,7,1,will,"['W', 'IH1', 'L']",0,False,0,False,True,Big L,The Enemy
+18,8,1,do,"['D', 'UW1']",0,False,0,False,True,Big L,The Enemy
+18,9,1,whatever,"['W', 'AH2', 'T', 'EH1', 'V', 'ER0']",0,False,0,False,True,Big L,The Enemy
+18,10,1,it,"['IH1', 'T']",0,False,0,False,True,Big L,The Enemy
+18,11,1,takes,"['T', 'EY1', 'K', 'S']",0,False,0,False,True,Big L,The Enemy
+19,1,1,Word,"['W', 'ER1', 'D']",0,False,0,False,True,Big L,The Enemy
+19,2,1,up,"['AH1', 'P']",0,False,0,False,True,Big L,The Enemy
+19,3,1,them,"['DH', 'EH1', 'M']",0,False,0,False,True,Big L,The Enemy
+19,4,1,Fed,"['F', 'EH1', 'D', 'ER0', 'AH0', 'L', 'Z']",0,False,0,False,True,Big L,The Enemy
+19,4,2,er,"['F', 'EH1', 'D', 'ER0', 'AH0', 'L', 'Z']",0,False,0,False,True,Big L,The Enemy
+19,4,3,als,"['F', 'EH1', 'D', 'ER0', 'AH0', 'L', 'Z']",0,False,0,False,True,Big L,The Enemy
+19,5,1,got,"['G', 'AA1', 'T']",0,False,0,False,True,Big L,The Enemy
+19,6,1,my,"['M', 'AY1']",0,False,0,False,True,Big L,The Enemy
+19,7,1,phone,"['F', 'OW1', 'N']",0,False,0,False,True,Big L,The Enemy
+19,8,1,and,"['AH0', 'N', 'D']",0,False,0,False,True,Big L,The Enemy
+19,9,1,my,"['M', 'AY1']",0,False,0,False,True,Big L,The Enemy
+19,10,1,house,"['HH', 'AW1', 'S']",0,False,0,False,True,Big L,The Enemy
+19,11,1,tapped,"['T', 'AE1', 'P', 'T']",0,False,0,False,True,Big L,The Enemy
+20,1,1,Pray,"['P', 'R', 'EY1', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+20,1,2,ing,"['P', 'R', 'EY1', 'IH0', 'NG']",0,False,0,False,True,Big L,The Enemy
+20,2,1,that,"['DH', 'AE1', 'T']",0,False,0,False,True,Big L,The Enemy
+20,3,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+20,4,1,fall,"['F', 'AO1', 'L']",0,False,0,False,True,Big L,The Enemy
+20,5,1,for,"['F', 'AO1', 'R']",0,False,0,False,True,Big L,The Enemy
+20,6,1,the,"['DH', 'AH0']",0,False,0,False,True,Big L,The Enemy
+20,7,1,mousetrap,"['M', 'AW1', 'S', 'T', 'R', 'AE2', 'P']",0,False,0,False,True,Big L,The Enemy
+20,8,1,I,['AY1'],0,False,0,False,True,Big L,The Enemy
+20,9,1,doubt,"['D', 'AW1', 'T']",0,False,0,False,True,Big L,The Enemy
+20,10,1,that,"['DH', 'AE1', 'T']",0,False,0,False,True,Big L,The Enemy
