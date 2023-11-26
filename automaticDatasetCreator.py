@@ -20,7 +20,7 @@ data = []
 dic = pyphen.Pyphen(lang='en')
 
 # Specify the directory containing the text files
-directory = 'lyrics/final preproccess txt/first group'
+directory = 'lyrics/final preproccess txt/second group'
 
 # Iterate over all text files in the directory
 for filename in os.listdir(directory):

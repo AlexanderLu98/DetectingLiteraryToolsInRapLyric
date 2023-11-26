@@ -1,0 +1,369 @@
+LineID,WordID,SyllableID,Syllable,Phonetic,RhymeGroup,IsRhyme,AlliterationSound,IsAlliteration,FoundInCMU,ArtistName,SongName
+1,1,1,Right,"['R', 'AY1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+1,2,1,on,"['AA1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+1,3,1,my,"['M', 'AY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+1,4,1,tongue,"['T', 'AH1', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+1,5,1,look,"['L', 'UH1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+2,1,1,Yo,"['Y', 'OW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+2,2,1,check,"['CH', 'EH1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+2,3,1,my,"['M', 'AY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+2,4,1,flow,"['F', 'L', 'OW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+2,5,1,is,"['IH1', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+2,6,1,un,"['AH0', 'N', 'N', 'OW1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+2,6,2,known,"['AH0', 'N', 'N', 'OW1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+2,7,1,to,"['T', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+2,8,1,man,"['M', 'AE1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+2,9,1,yet,"['Y', 'EH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,1,1,Dam,"['D', 'AE1', 'M', 'IH0', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,1,2,mit,"['D', 'AE1', 'M', 'IH0', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,2,1,keep,"['K', 'IY1', 'P']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,3,1,run,"['R', 'AH1', 'N', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,3,2,ning,"['R', 'AH1', 'N', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,4,1,around,"['ER0', 'AW1', 'N', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,5,1,like,"['L', 'AY1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,6,1,an,"['AE1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,7,1,an,"['AE1', 'N', 'Y', 'UW0', 'AH0', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,7,2,nu,"['AE1', 'N', 'Y', 'UW0', 'AH0', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,7,3,al,"['AE1', 'N', 'Y', 'UW0', 'AH0', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,8,1,ban,"['B', 'AE1', 'NG', 'K', 'W', 'AH0', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+3,8,2,quet,"['B', 'AE1', 'NG', 'K', 'W', 'AH0', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,1,1,Made,"['M', 'EY1', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,2,1,a,['AH0'],0,False,0,False,True,Ab-Soul,The End Is Near
+4,3,1,with,"['W', 'IH0', 'DH', 'D', 'R', 'AO1', 'AH0', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,3,2,draw,"['W', 'IH0', 'DH', 'D', 'R', 'AO1', 'AH0', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,3,3,al,"['W', 'IH0', 'DH', 'D', 'R', 'AO1', 'AH0', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,4,1,with,"['W', 'IH1', 'DH']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,5,1,your,"['Y', 'AO1', 'R']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,6,1,broad,"['B', 'R', 'AO1', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,7,1,she,"['SH', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,8,1,left,"['L', 'EH1', 'F', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,9,1,the,"['DH', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,10,1,bank,"['B', 'AE1', 'NG', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+4,11,1,wet,"['W', 'EH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,1,1,Rub,"['R', 'AH1', 'B']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,2,1,her,"['HH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,3,1,like,"['L', 'AY1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,4,1,a,['AH0'],0,False,0,False,True,Ab-Soul,The End Is Near
+5,5,1,con,"['K', 'AA1', 'N', 'D', 'AH0', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,5,2,dom,"['K', 'AA1', 'N', 'D', 'AH0', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,6,1,con,"['K', 'AA1', 'N', 'T', 'AH0', 'M', 'P', 'L', 'EY2', 'T', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,6,2,tem,"['K', 'AA1', 'N', 'T', 'AH0', 'M', 'P', 'L', 'EY2', 'T', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,6,3,plat,"['K', 'AA1', 'N', 'T', 'AH0', 'M', 'P', 'L', 'EY2', 'T', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,6,4,ing,"['K', 'AA1', 'N', 'T', 'AH0', 'M', 'P', 'L', 'EY2', 'T', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,7,1,dan,"['D', 'EY1', 'N', 'JH', 'ER0', 'AH0', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,7,2,ger,"['D', 'EY1', 'N', 'JH', 'ER0', 'AH0', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,7,3,ous,"['D', 'EY1', 'N', 'JH', 'ER0', 'AH0', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+5,8,1,sex,"['S', 'EH1', 'K', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,1,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+6,2,1,'m,"['AH0', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,3,1,un,"['AH2', 'N', 'IH0', 'M', 'P', 'R', 'EH1', 'S', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,3,2,im,"['AH2', 'N', 'IH0', 'M', 'P', 'R', 'EH1', 'S', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,3,3,pressed,"['AH2', 'N', 'IH0', 'M', 'P', 'R', 'EH1', 'S', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,4,1,with,"['W', 'IH1', 'DH']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,5,1,your,"['Y', 'AO1', 'R']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,6,1,tal,"['T', 'AE1', 'L', 'AH0', 'N', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,6,2,ent,"['T', 'AE1', 'L', 'AH0', 'N', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,7,1,skill,"['S', 'K', 'IH1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,8,1,still,"['S', 'T', 'IH1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,9,1,ap,"['AH0', 'P', 'IY1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+6,9,2,peal,"['AH0', 'P', 'IY1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,1,1,A,['AH0'],0,False,0,False,True,Ab-Soul,The End Is Near
+7,2,1,maes,"['M', 'AY1', 'S', 'T', 'R', 'OW0']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,2,2,tro,"['M', 'AY1', 'S', 'T', 'R', 'OW0']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,3,1,on,"['AA1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,4,1,the,"['DH', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,5,1,mic,"['M', 'IH1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,6,1,though,"['DH', 'OW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,7,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+7,8,1,'m,"['AH0', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,9,1,al,"['AO1', 'L', 'M', 'OW2', 'S', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,9,2,most,"['AO1', 'L', 'M', 'OW2', 'S', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,10,1,ill,"['IH1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,11,1,as,"['AE1', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,12,1,Ca,"['K', 'AH0', 'M', 'IY1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,12,2,m,"['K', 'AH0', 'M', 'IY1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,12,3,ille,"['K', 'AH0', 'M', 'IY1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,13,1,for,"['F', 'AO1', 'R']",0,False,0,False,True,Ab-Soul,The End Is Near
+7,14,1,real,"['R', 'IY1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+8,1,1,Ai,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+8,2,1,n't,n't,0,False,0,False,False,Ab-Soul,The End Is Near
+8,3,1,nev,"['N', 'EH1', 'V', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+8,3,2,er,"['N', 'EH1', 'V', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+8,4,1,run,runnin,0,False,0,False,False,Ab-Soul,The End Is Near
+8,4,2,nin,runnin,0,False,0,False,False,Ab-Soul,The End Is Near
+8,5,1,',',0,False,0,False,False,Ab-Soul,The End Is Near
+8,6,1,from,"['F', 'R', 'AH1', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+8,7,1,noth,"['N', 'AA1', 'TH', 'IH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+8,7,2,in,"['N', 'AA1', 'TH', 'IH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+8,8,1,',',0,False,0,False,False,Ab-Soul,The End Is Near
+8,9,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+8,10,1,'m,"['AH0', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+8,11,1,fit,"['F', 'IH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+8,12,1,to,"['T', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+8,13,1,tread,"['T', 'R', 'EH1', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+8,14,1,mills,"['M', 'IH1', 'L', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+9,1,1,Name,"['N', 'EY1', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+9,2,1,an,"['AH0', 'N', 'AH1', 'DH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+9,2,2,oth,"['AH0', 'N', 'AH1', 'DH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+9,2,3,er,"['AH0', 'N', 'AH1', 'DH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+9,3,1,move,"['M', 'UW1', 'V', 'M', 'AH0', 'N', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+9,3,2,ment,"['M', 'UW1', 'V', 'M', 'AH0', 'N', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+9,4,1,makin,"['M', 'AE1', 'K', 'IH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+9,5,1,',',0,False,0,False,False,Ab-Soul,The End Is Near
+9,6,1,time,"['T', 'AY1', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+9,7,1,stand,"['S', 'T', 'AE1', 'N', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+9,8,1,still,"['S', 'T', 'IH1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+10,1,1,Hiiipower,Hiiipower,0,False,0,False,False,Ab-Soul,The End Is Near
+10,2,1,to,"['T', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+10,3,1,the,"['DH', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+10,4,1,third,"['TH', 'ER1', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+10,5,1,de,"['D', 'IH0', 'G', 'R', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+10,5,2,gree,"['D', 'IH0', 'G', 'R', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+11,1,1,Murder,"['M', 'ER1', 'D', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+11,2,1,we,"['W', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+11,3,1,emerged,"['IH0', 'M', 'ER1', 'JH', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+11,4,1,and,"['AH0', 'N', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+11,5,1,it,"['IH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+11,6,1,was,"['W', 'AA1', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+11,7,1,an,"['AE1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+11,8,1,emer,"['IH0', 'M', 'ER1', 'JH', 'AH0', 'N', 'S', 'IY0']",0,False,0,False,True,Ab-Soul,The End Is Near
+11,8,2,gency,"['IH0', 'M', 'ER1', 'JH', 'AH0', 'N', 'S', 'IY0']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,1,1,It,"['IH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,2,1,'s,"['EH1', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,3,1,closed,"['K', 'L', 'OW1', 'Z', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,4,1,cur,"['K', 'ER1', 'T', 'AH0', 'N', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,4,2,tains,"['K', 'ER1', 'T', 'AH0', 'N', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,5,1,for,"['F', 'AO1', 'R']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,6,1,you,"['Y', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,7,1,worth,"['W', 'ER1', 'TH', 'L', 'AH0', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,7,2,less,"['W', 'ER1', 'TH', 'L', 'AH0', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,8,1,earth,"['ER1', 'TH', 'L', 'IH0', 'NG', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+12,8,2,lings,"['ER1', 'TH', 'L', 'IH0', 'NG', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+13,1,1,Hurtin,Hurtin,0,False,0,False,False,Ab-Soul,The End Is Near
+13,2,1,',',0,False,0,False,False,Ab-Soul,The End Is Near
+13,3,1,cause,"['K', 'AA1', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+13,4,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+13,5,1,rise,"['R', 'AY1', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+13,6,1,like,"['L', 'AY1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+13,7,1,mer,"['M', 'ER1', 'K', 'Y', 'ER0', 'IY0']",0,False,0,False,True,Ab-Soul,The End Is Near
+13,7,2,cury,"['M', 'ER1', 'K', 'Y', 'ER0', 'IY0']",0,False,0,False,True,Ab-Soul,The End Is Near
+13,8,1,in,"['IH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+13,9,1,the,"['DH', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+13,10,1,burn,"['B', 'ER1', 'N', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+13,10,2,ing,"['B', 'ER1', 'N', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+13,11,1,heat,"['HH', 'IY1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+14,1,1,Word,"['W', 'ER1', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+14,2,1,on,"['AA1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+14,3,1,the,"['DH', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+14,4,1,street,"['S', 'T', 'R', 'IY1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+14,5,1,Soulo,Soulo,0,False,0,False,False,Ab-Soul,The End Is Near
+14,6,1,done,"['D', 'AH1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+14,7,1,done,"['D', 'AH1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+14,8,1,it,"['IH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+14,9,1,again,"['AH0', 'G', 'EH1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,1,1,Look,"['L', 'UH1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,2,1,at,"['AE1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,3,1,me,"['M', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,4,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+15,5,1,used,"['Y', 'UW1', 'Z', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,6,1,to,"['T', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,7,1,match,"['M', 'AE1', 'CH']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,8,1,a,['AH0'],0,False,0,False,True,Ab-Soul,The End Is Near
+15,9,1,dub,"['D', 'AH1', 'B']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,10,1,sack,"['S', 'AE1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,11,1,with,"['W', 'IH1', 'DH']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,12,1,my,"['M', 'AY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+15,13,1,friends,"['F', 'R', 'EH1', 'N', 'D', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,1,1,Now,"['N', 'AW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,2,1,we,"['W', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,3,1,smokin,smokin,0,False,0,False,False,Ab-Soul,The End Is Near
+16,4,1,',',0,False,0,False,False,Ab-Soul,The End Is Near
+16,5,1,by,"['B', 'AY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,6,1,the,"['DH', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,7,1,O,['OW1'],0,False,0,False,True,Ab-Soul,The End Is Near
+16,8,1,like,"['L', 'AY1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,9,1,the,"['DH', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,10,1,let,"['L', 'EH1', 'T', 'ER0', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,10,2,ters,"['L', 'EH1', 'T', 'ER0', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,11,1,P,"['P', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,12,1,and,"['AH0', 'N', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+16,13,1,N,"['EH1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,1,1,Ai,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+17,2,1,n't,n't,0,False,0,False,False,Ab-Soul,The End Is Near
+17,3,1,have,"['HH', 'AE1', 'V']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,4,1,to,"['T', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,5,1,start,"['S', 'T', 'AA1', 'R', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,6,1,watch,"['W', 'AA1', 'CH', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,6,2,ing,"['W', 'AA1', 'CH', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,7,1,CNN,"['S', 'IY1', 'EH1', 'N', 'EH1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,8,1,for,"['F', 'AO1', 'R']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,9,1,you,"['Y', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,10,1,to,"['T', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,11,1,see,"['S', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,12,1,an,"['AE1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+17,13,1,end,"['EH1', 'N', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,1,1,It,"['IH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,2,1,'s,"['EH1', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,3,1,com,"['K', 'AH1', 'M', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,3,2,ing,"['K', 'AH1', 'M', 'IH0', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,4,1,quick,"['K', 'W', 'IH1', 'K', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,4,2,er,"['K', 'W', 'IH1', 'K', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,5,1,than,"['DH', 'AE1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,6,1,you,"['Y', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,7,1,think,"['TH', 'IH1', 'NG', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,8,1,do,"['D', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,9,1,n't,n't,0,False,0,False,False,Ab-Soul,The End Is Near
+18,10,1,mean,"['M', 'IY1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,11,1,to,"['T', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,12,1,rub,"['R', 'AH1', 'B']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,13,1,it,"['IH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+18,14,1,in,"['IH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,1,1,Like,"['L', 'AY1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,2,1,lub,lubriderm,0,False,0,False,False,Ab-Soul,The End Is Near
+19,2,2,ri,lubriderm,0,False,0,False,False,Ab-Soul,The End Is Near
+19,2,3,derm,lubriderm,0,False,0,False,False,Ab-Soul,The End Is Near
+19,3,1,but,"['B', 'AH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,4,1,you,"['Y', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,5,1,should,"['SH', 'UH1', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,6,1,learn,"['L', 'ER1', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,7,1,that,"['DH', 'AE1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,8,1,you,"['Y', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,9,1,could,"['K', 'UH1', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,10,1,nev,"['N', 'EH1', 'V', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,10,2,er,"['N', 'EH1', 'V', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,11,1,fuck,"['F', 'AH1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,12,1,with,"['W', 'IH1', 'DH']",0,False,0,False,True,Ab-Soul,The End Is Near
+19,13,1,him,"['HH', 'IH1', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+20,1,1,Ab,"['AE1', 'B']",0,False,0,False,True,Ab-Soul,The End Is Near
+20,2,1,'s,"['EH1', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+20,3,1,get,gettin,0,False,0,False,False,Ab-Soul,The End Is Near
+20,3,2,tin,gettin,0,False,0,False,False,Ab-Soul,The End Is Near
+20,4,1,',',0,False,0,False,False,Ab-Soul,The End Is Near
+20,5,1,big,"['B', 'IH1', 'G', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+20,5,2,ger,"['B', 'IH1', 'G', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+20,6,1,but,"['B', 'AH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+20,7,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+20,8,1,ai,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+20,9,1,n't,n't,0,False,0,False,False,Ab-Soul,The End Is Near
+20,10,1,do,"['D', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+20,11,1,no,"['N', 'OW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+20,12,1,situps,situps,0,False,0,False,False,Ab-Soul,The End Is Near
+21,1,1,Got,"['G', 'AA1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,2,1,the,"['DH', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,3,1,hic,"['HH', 'IH1', 'K', 'AH0', 'P', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,3,2,cups,"['HH', 'IH1', 'K', 'AH0', 'P', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,4,1,cause,"['K', 'AA1', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,5,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+21,6,1,keep,"['K', 'IY1', 'P']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,7,1,puffin,"['P', 'AH1', 'F', 'IH2', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,8,1,',',0,False,0,False,False,Ab-Soul,The End Is Near
+21,9,1,Ports,"['P', 'AO1', 'R', 'T', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,10,1,without,"['W', 'IH0', 'TH', 'AW1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,11,1,the,"['DH', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,12,1,fil,"['F', 'IH1', 'L', 'T', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+21,12,2,ter,"['F', 'IH1', 'L', 'T', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+22,1,1,Feel,"['F', 'IY1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+22,2,1,the,"['DH', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+22,3,1,vibe,"['V', 'AY1', 'B']",0,False,0,False,True,Ab-Soul,The End Is Near
+22,4,1,switch,"['S', 'W', 'IH1', 'CH']",0,False,0,False,True,Ab-Soul,The End Is Near
+22,5,1,in,"['IH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+22,6,1,every,"['EH1', 'V', 'ER0', 'IY0']",0,False,0,False,True,Ab-Soul,The End Is Near
+22,7,1,single,"['S', 'IH1', 'NG', 'G', 'AH0', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+22,8,1,room,"['R', 'UW1', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+22,9,1,that,"['DH', 'AE1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+22,10,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+22,11,1,enter,"['EH1', 'N', 'T', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,1,1,Told,"['T', 'OW1', 'L', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,2,1,my,"['M', 'AY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,3,1,bitch,"['B', 'IH1', 'CH']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,4,1,to,"['T', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,5,1,make,"['M', 'EY1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,6,1,room,"['R', 'UW1', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,7,1,for,"['F', 'AO1', 'R']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,8,1,a,['AH0'],0,False,0,False,True,Ab-Soul,The End Is Near
+23,9,1,tomb,"['T', 'UW1', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,10,1,for,"['F', 'AO1', 'R']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,11,1,her,"['HH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,12,1,pla,"['P', 'L', 'AH0', 'S', 'EH1', 'N', 'T', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,12,2,centa,"['P', 'L', 'AH0', 'S', 'EH1', 'N', 'T', 'AH0']",0,False,0,False,True,Ab-Soul,The End Is Near
+23,13,1,nigga,nigga,0,False,0,False,False,Ab-Soul,The End Is Near
+24,1,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+24,2,1,fuck,"['F', 'AH1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+24,3,1,her,"['HH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+24,4,1,'til,"['T', 'IH1', 'L']",0,False,0,False,True,Ab-Soul,The End Is Near
+24,5,1,she,"['SH', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+24,6,1,have,"['HH', 'AE1', 'V']",0,False,0,False,True,Ab-Soul,The End Is Near
+24,7,1,a,['AH0'],0,False,0,False,True,Ab-Soul,The End Is Near
+24,8,1,seizure,"['S', 'IY1', 'ZH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+24,9,1,in,"['IH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+24,10,1,my,"['M', 'AY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+24,11,1,leis,"['L', 'EH1', 'ZH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+24,11,2,ure,"['L', 'EH1', 'ZH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+24,12,1,time,"['T', 'AY1', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+25,1,1,She,"['SH', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+25,2,1,know,"['N', 'OW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+25,3,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+25,4,1,love,"['L', 'AH1', 'V']",0,False,0,False,True,Ab-Soul,The End Is Near
+25,5,1,her,"['HH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+25,6,1,also,"['AO1', 'L', 'S', 'OW0']",0,False,0,False,True,Ab-Soul,The End Is Near
+25,7,1,know,"['N', 'OW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+25,8,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+25,9,1,do,"['D', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+25,10,1,n't,n't,0,False,0,False,False,Ab-Soul,The End Is Near
+25,11,1,need,"['N', 'IY1', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+25,12,1,her,"['HH', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+26,1,1,Cause,"['K', 'AA1', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+26,2,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+26,3,1,'m,"['AH0', 'M']",0,False,0,False,True,Ab-Soul,The End Is Near
+26,4,1,a,['AH0'],0,False,0,False,True,Ab-Soul,The End Is Near
+26,5,1,king,"['K', 'IH1', 'NG']",0,False,0,False,True,Ab-Soul,The End Is Near
+26,6,1,and,"['AH0', 'N', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+26,7,1,I,['AY1'],0,False,0,False,True,Ab-Soul,The End Is Near
+26,8,1,smoke,"['S', 'M', 'OW1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+26,9,1,a,['AH0'],0,False,0,False,True,Ab-Soul,The End Is Near
+26,10,1,lot,"['L', 'AA1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+26,11,1,of,"['AH1', 'V']",0,False,0,False,True,Ab-Soul,The End Is Near
+26,12,1,weed,"['W', 'IY1', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+27,1,1,That,"['DH', 'AE1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+27,2,1,makes,"['M', 'EY1', 'K', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+27,3,1,sense,"['S', 'EH1', 'N', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+27,4,1,it,"['IH1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+27,5,1,'s,"['EH1', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+27,6,1,about,"['AH0', 'B', 'AW1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+27,7,1,33,33,0,False,0,False,False,Ab-Soul,The End Is Near
+27,8,1,ounces,"['AW1', 'N', 'S', 'AH0', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+27,9,1,in,"['IH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+27,10,1,a,['AH0'],0,False,0,False,True,Ab-Soul,The End Is Near
+27,11,1,liter,"['L', 'IY1', 'T', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,1,1,In,"['IH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,2,1,lay,"['L', 'EY1', 'M', 'AH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,2,2,man,"['L', 'EY1', 'M', 'AH0', 'N']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,3,1,'s,"['EH1', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,4,1,terms,"['T', 'ER1', 'M', 'Z']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,5,1,you,"['Y', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,6,1,lames,lames,0,False,0,False,False,Ab-Soul,The End Is Near
+28,7,1,had,"['HH', 'AE1', 'D']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,8,1,bet,"['B', 'EH1', 'T', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,8,2,ter,"['B', 'EH1', 'T', 'ER0']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,9,1,pay,"['P', 'EY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,10,1,re,"['R', 'IH0', 'S', 'P', 'EH1', 'K', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+28,10,2,spect,"['R', 'IH0', 'S', 'P', 'EH1', 'K', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,1,1,Or,"['AO1', 'R']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,2,1,you,"['Y', 'UW1']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,3,1,'ll,'ll,0,False,0,False,False,Ab-Soul,The End Is Near
+29,4,1,be,"['B', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,5,1,sleep,sleepin,0,False,0,False,False,Ab-Soul,The End Is Near
+29,5,2,in,sleepin,0,False,0,False,False,Ab-Soul,The End Is Near
+29,6,1,',',0,False,0,False,False,Ab-Soul,The End Is Near
+29,7,1,they,"['DH', 'EY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,8,1,'ll,'ll,0,False,0,False,False,Ab-Soul,The End Is Near
+29,9,1,be,"['B', 'IY1']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,10,1,at,"['AE1', 'T']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,11,1,your,"['Y', 'AO1', 'R']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,12,1,wake,"['W', 'EY1', 'K']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,13,1,pay,payin,0,False,0,False,False,Ab-Soul,The End Is Near
+29,13,2,in,payin,0,False,0,False,False,Ab-Soul,The End Is Near
+29,14,1,',',0,False,0,False,False,Ab-Soul,The End Is Near
+29,15,1,their,"['DH', 'EH1', 'R']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,16,1,re,"['R', 'IH0', 'S', 'P', 'EH1', 'K', 'T', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
+29,16,2,spects,"['R', 'IH0', 'S', 'P', 'EH1', 'K', 'T', 'S']",0,False,0,False,True,Ab-Soul,The End Is Near
