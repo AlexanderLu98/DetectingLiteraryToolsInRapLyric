@@ -20,4 +20,10 @@ https://www.researchgate.net/publication/351379589_Comparison_of_Rule-based_and_
 - [x] Created account to test: https://www.english-corpora.org/iweb/ (Not necessary)
 - [x] Data scraping from cambridge dictionary (TODO: Read the robot.txt file but uncertain of the guideline for data scraping)
 - [x] 1000 most used words from EF
-- [ ] creating my own txt file
+- [x] creating my own txt file in IPA representation (note: only first way of pronouncing a word is used. need to expand later) (Second note: Struggles with the suffix of words, example according becomes accord. This needs to be represented in a way!)
+- [x] creating my own txt file in aprabet format
+- [x] word frequency
+
+Todos:
+- [ ] Struggles with the suffix of words, example according becomes accord. This needs to be represented in a way!
+- [ ] slang dictionary (https://www.dictionary.com/e/slang/)
