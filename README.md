@@ -4,3 +4,4 @@ Detection rhyme.
 - [x] CMUdict
 - [ ] ARPABET
 - [ ] SAMPA/XSAMPA
+- [ ] https://github.com/repp/big-phoney (LOOKS PROMISING)
