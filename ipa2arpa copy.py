@@ -68,7 +68,14 @@ def ipa_to_arpabet(ipa_string):
         else:
             arpabet_string += ipa_string[i]  # If the character is not in the dictionary, keep it as is
             i += 1
-    return arpabet_string
+
+        # Add a hyphen if the next character is not 'ˈ', '.' etc. and the previous character is not 'ˈ' or '.'
+        if i < len(ipa_string) and ipa_string[i] not in ['ˈ', '.','ː','ˌ'] and arpabet_string[-1] not in ['ˈ', '.','ː','ˌ']:
+            arpabet_string += '-'
+
+    return arpabet_string.rstrip('-')  # Remove the trailing hyphen
+
+
 
 def process_words(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as f_in, open(output_file, 'w', encoding='utf-8') as f_out:
