@@ -24,6 +24,10 @@ https://www.researchgate.net/publication/351379589_Comparison_of_Rule-based_and_
 - [x] creating my own txt file in aprabet format
 - [x] word frequency
 
+25.12.2023:
+- [ ] python scripts for determining rhymes
+- [ ] python tests for determining rhymes (TODO improve the testing system, for instance with __init__.py etc)
+
 Todos:
 - [ ] Struggles with the suffix of words, example according becomes accord. This needs to be represented in a way!
 - [ ] slang dictionary (https://www.dictionary.com/e/slang/)
